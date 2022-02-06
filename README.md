@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LovePelmeni
-- 👀 I’m interested in programming (most of the time), playing video games sometimes, sport and just go somewhere for a walk.
+- 👀 I’m interested in programming , playing video games sometimes, sport, just hanging out with friends, etc.....
 - 🌱 I’m currently learning python, (django) and recently started javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (kirklimushin@gmail.com)
