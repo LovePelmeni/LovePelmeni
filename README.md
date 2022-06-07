@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @LovePelmeni
-- 👀 I’m interested in programming , playing video games sometimes, sport, just hanging out with friends, etc.....
-- 🌱 I’m currently learning python, (django) and recently started javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (kirklimushin@gmail.com)
+#Hi, I'm [@LovePelmeni]() 👋
+##(Software Developer from Russia, Moscow)
 
-<!---
-LovePelmeni/LovePelmeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###I'm building APIs using `Django` and `FastAPI` frameworks.
+###I like to build distributed systems, backend APIs, Deploy them with Docker Swarm.
+
+### I'm currently dedicating highly percentage of my time on building  APIs with Django.
+### Contact me:
+####`LinkedIn` - Klim_K
+### `Email` - kirklimushin@gmail.com
