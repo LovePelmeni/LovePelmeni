@@ -2,7 +2,7 @@
 ## (Software Developer from Russia, Moscow)
 
 ### I'm building APIs using `Django` and `FastAPI` frameworks. 
-### Building distrbuted systems, deploy with docker-swarm 
+### Building distributed systems, deploy with docker-swarm as well :)
 
 ### I'm currently dedicating highly percentage of my time on building  APIs with Django.
 ### Contact me:
