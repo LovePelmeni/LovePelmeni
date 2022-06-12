@@ -7,5 +7,5 @@
 ### I'm currently dedicating highly percentage of my time on building  APIs with Django.
 ### Contact me:
 
-### `LinkedIn` - Klim_K
-### `Email` - kirklimushin@gmail.com
+### `LinkedIn` - by `klimkiruk@gmail.com` email
+### `Email` - kirklimushin@gmail.com 
