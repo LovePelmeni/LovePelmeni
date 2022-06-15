@@ -1,6 +1,4 @@
-## Hi, I'm [@LovePelmeni]() 👋
-## (Software Developer from Russia, Moscow)
-
+## Hi, I'm [@LovePelmeni]("http://github.com/LovePelmeni") 👋
 ### I'm building APIs using `Django` and `FastAPI` frameworks. 
 ### Building distributed systems, deploy with docker-swarm as well :)
 
