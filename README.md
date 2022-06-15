@@ -8,4 +8,4 @@
 ### Contact me:
 
 ### `LinkedIn` - by `klimkiruk@gmail.com` email
-### `Email` - kirklimushin@gmail.com 
+### `Emails` - kirklimushin@gmail.com & klimkiruk@gmail.com
