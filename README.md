@@ -1,4 +1,4 @@
-## Hi, I'm [@LovePelmeni]("http://github.com/LovePelmeni") 👋
+## Hi, I'm Kirill 👋
 ### I'm building APIs using `Django` and `FastAPI` frameworks. Recently switch to the Golang and know mostly learning about Cloud Native.
 ### Interested in such technologies as RabbitMQ, Docker, REST, GRPC, Apache Kafka etc...
 
