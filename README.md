@@ -7,5 +7,4 @@
 ### I'm currently dedicating highly percentage of my time on building APIs and MicroServices using Golang and Python.
 ### Contact me:
 
-### `LinkedIn` ~ `https://linkedin/in/kirill-klimushin/`
 ### `Emails` ~ kirklimushin@gmail.com & klimkiruk@gmail.com
