@@ -1,6 +1,6 @@
 ## Hi, I'm Kirill 👋
-### I'm building APIs using `Django` and `FastAPI` frameworks. Recently switch to the Golang and know mostly learning about Cloud Native.
-### Interested in such technologies as RabbitMQ, Docker, REST, GRPC, Apache Kafka etc...
+### I'm building APIs using `Django` and `FastAPI` frameworks, Currently switched to the Golang and now mostly learning about Cloud Native.
+### Interested in such technologies as RabbitMQ, Docker, REST, GRPC, Apache Kafka, Kubernetes, etc...
 
 ### Building distributed systems, deploy with docker-swarm as well :)
 
