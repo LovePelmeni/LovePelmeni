@@ -1,7 +1,7 @@
 ## Hi, I'm Kirill 👋
 ###  I'm currently dedicating highly percentage of my time on building APIs and MicroServices using Golang,
 Also have 4 years of experience with Python and Feel Pretty Confident with `Django` and `FastAPI` Frameworks,
-### Interested in such technologies as RabbitMQ, Docker, REST, GRPC, Apache Kafka, Kubernetes, etc...
+### Interested in such technologies as RabbitMQ, Docker, REST, GRPC, Kubernetes, etc...
 
 ### Contact me:
 
